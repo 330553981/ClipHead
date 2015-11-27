@@ -1,9 +1,7 @@
 # ClipHead
-A simple cutting head project
+A simple cutting head Image project
 
 
 image eg:
 
-![](http://i.imgur.com/GDSJi8X.png)  
-
-![](http://i.imgur.com/0jodj9Q.png)
+![](http://i.imgur.com/58NnAJB.png)
